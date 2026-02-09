@@ -26,5 +26,3 @@ It allows users to manage student records through RESTful API endpoints.
 
 ---
 
-
-## 📂 Project Structure
